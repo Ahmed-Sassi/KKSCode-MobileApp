@@ -1,4 +1,4 @@
-![KKSCode Banner](./assets/stage.png)
+![KKSCode Banner](https://github.com/Ahmed-Sassi/KKSCode-MobileApp/blob/main/assets/stage%20.png)
 
 # KKSCode
 
